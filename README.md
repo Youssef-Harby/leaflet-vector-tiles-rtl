@@ -19,7 +19,7 @@ This project demonstrates how to use vector tiles in a Leaflet map using the Map
 
 No installation required. All dependencies are loaded from CDNs.
 
-Then open your browser and navigate to `http://localhost:8000`.
+Just open the html page in your browser or Live demo here https://youssef-harby.github.io/leaflet-vector-tiles-rtl/
 
 ## Technologies Used
 
